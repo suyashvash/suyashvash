@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Vashishtha</h1>
 <h3 align="center">A passionate frontend developer from India working with React JS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashvash" alt="suyashvash" /></a> </p>
-
 - 🔭 I’m currently working on **Snippet Sauce**
 
 - 🌱 I’m currently learning **Full Stack and Blockchain**
