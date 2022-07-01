@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻 All of my projects are available at [suyashvashishtha.com](suyashvashishtha.com)
+- 👨‍💻 All of my projects are available at [https://www.suyashvashishtha.com](suyashvashishtha.com)
 
 - 💬 Ask me about **React, React Native, MERN**
 
