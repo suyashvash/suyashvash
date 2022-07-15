@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suyash Vashishtha</h1>
-<h3 align="center">A passionate MERN Stack Developer from India.</h3>
+<h3 align="center">A passionate Mobile / Web Developer from India.</h3>
 
 - 🌱 I’m currently learning **Blockchain DApps**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **React Native or MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://suyashvashishtha.com/](https://suyashvashishtha.com) 
 
