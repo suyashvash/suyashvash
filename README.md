@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Blockchain DApps**
 
-- 👯 I’m looking to collaborate on **React Native or MERN Stack Projects**
+- 👯 I’m looking to collaborate on **React Native Projects**
 
 - 👨‍💻 All of my projects are available at [https://suyashvashishtha.com/](https://suyashvashishtha.com) 
 
-- 💬 Ask me about **React, React Native, MERN**
+- 💬 Ask me about **React, React Native, MERN, Mobile Dev**
 
 - 📫 How to reach me **suyashvashishtha@gmail.com**
 
