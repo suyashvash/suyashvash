@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Vashishtha</h1>
 <h3 align="center">A passionate Mobile / Web Developer from India.</h3>
 
-- 🌱 I’m currently learning **Blockchain DApps**
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
