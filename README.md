@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashvash&show_icons=true&locale=en" alt="suyashvash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashvash&" alt="suyashvash" /></p>
+
+
+[![@suyashvash's Holopin board](https://holopin.io/api/user/board?user=suyashvash)](https://holopin.io/@suyashvash)
