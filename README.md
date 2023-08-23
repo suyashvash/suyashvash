@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashvash" alt="suyashvash" /></a> </p>
 
-- 🔭 I’m currently working on **Taskify**
+- 🔭 I’m currently working on **Hogwarts-iOS**
 
 - 🌱 I’m currently learning **Swift UI & Kotlin**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/suyashdev](https://dev.to/suyashdev)
 
-- 💬 Ask me about **React Natice, React js, Cross Platfrom dev, Mobile Development**
+- 💬 Ask me about **React Native, React js, Cross Platform dev, Mobile Development**
 
 - 📫 How to reach me **suyashvashishtha@gmail.com**
 
